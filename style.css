@@ -315,7 +315,7 @@ section .button button:hover{
 }
 
 /* Contact Me CSS */
-.contact{
+/*.contact{
   background: #100001;
 }
 .contact .content{
@@ -326,7 +326,7 @@ section .button button:hover{
   width: 80%;
   text-align: center;
   margin: auto;
-}
+}*/
 
 /* Footer CSS */
 footer{
