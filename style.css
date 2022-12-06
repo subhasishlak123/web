@@ -56,7 +56,7 @@ nav .navbar .logo a{
   color: #4070f4;
 }
 nav.sticky .navbar .logo a{
-  color: #444000;
+  color: #999;
 }
 nav .navbar .menu{
   display: flex;
